@@ -16,7 +16,7 @@
 	"postCreateCommand": "curl -Ls https://sh.jbang.dev | bash -s - app setup",
 	"customizations": {
 		"vscode": {
-			"extensions": ["vscjava.vscode-java-pack"]
+			"extensions": ["vscjava.vscode-java-pack", "jbangdev.jbang-vscode"]
 		}
 	}
 
